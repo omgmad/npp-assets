@@ -1,41 +1,4 @@
 {
-  "name": "Nord Primordial Pass #0850",
-  "symbol": "NPP",
-  "description": "Nord Primordial Pass \u2014 Early member NFT. Hold to accumulate points daily. Transfer or sell resets points to 0.",
-  "image": "https://gateway.lighthouse.storage/ipfs/bafkreieheklqtnz5pfheji67o6uf5gifqz2t6qkxzbdom27dzxrdxfpfqm",
-  "animation_url": "https://gateway.lighthouse.storage/ipfs/bafkreieheklqtnz5pfheji67o6uf5gifqz2t6qkxzbdom27dzxrdxfpfqm",
-  "external_url": "https://github.com/omgmad",
-  "attributes": [
-    {
-      "trait_type": "Tier",
-      "value": "Elder"
-    },
-    {
-      "trait_type": "Tier ID",
-      "value": "3"
-    },
-    {
-      "trait_type": "Pts/Day",
-      "value": "320"
-    },
-    {
-      "trait_type": "NFT Number",
-      "value": "850"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Genesis"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://gateway.lighthouse.storage/ipfs/bafkreieheklqtnz5pfheji67o6uf5gifqz2t6qkxzbdom27dzxrdxfpfqm",
-        "type": "video/webm",
-        "cdn": true
-      }
-    ],
-    "category": "video",
-    "creators": []
-  }
+  "image": "https://cdn.jsdelivr.net/gh/omgmad/npp-assets@main/images/npp-t3-elder.webm",
+  "animation_url": "https://cdn.jsdelivr.net/gh/omgmad/npp-assets@main/images/npp-t3-elder.webm"
 }

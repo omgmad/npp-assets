@@ -1,0 +1,41 @@
+{
+  "name": "Nord Primordial Pass #2987",
+  "symbol": "NPP",
+  "description": "Nord Primordial Pass \u2014 Early member NFT. Hold to accumulate points daily. Transfer or sell resets points to 0.",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafkreiawu4khiabwnfnpnokuzej7iivoafqsh656euyymcibju6jesnqbe",
+  "animation_url": "https://gateway.lighthouse.storage/ipfs/bafkreiawu4khiabwnfnpnokuzej7iivoafqsh656euyymcibju6jesnqbe",
+  "external_url": "https://github.com/omgmad",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Harbinger"
+    },
+    {
+      "trait_type": "Tier ID",
+      "value": "6"
+    },
+    {
+      "trait_type": "Pts/Day",
+      "value": "100"
+    },
+    {
+      "trait_type": "NFT Number",
+      "value": "2987"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.lighthouse.storage/ipfs/bafkreiawu4khiabwnfnpnokuzej7iivoafqsh656euyymcibju6jesnqbe",
+        "type": "video/webm",
+        "cdn": true
+      }
+    ],
+    "category": "video",
+    "creators": []
+  }
+}
